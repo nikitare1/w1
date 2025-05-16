@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+
+    <loc>https://{REPLACE_URL}/</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/jewels-blitz-pok.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/vega-mix-mystery-of-island-ball.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/village-defense-arena.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/dash-party-team.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/adam-and-eve-sleepyness-sacrifice.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/tower-defense-ring.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/member-conduct-code.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/games.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+
+    <url>
+
+    <loc>https://{REPLACE_URL}/about-us.html</loc>
+
+    <lastmod>2025-05-16</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>1.0</priority>
+
+    </url>
+    </urlset>
